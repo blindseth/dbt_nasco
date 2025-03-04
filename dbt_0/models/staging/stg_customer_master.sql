@@ -1,0 +1,1 @@
+select * from dev_blindseth.landing_customer_master
